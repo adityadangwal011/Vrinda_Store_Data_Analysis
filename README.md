@@ -221,13 +221,6 @@ Through this project, I developed expertise in:
 - Integration with SQL databases for scalability
 - Advanced visualization using Power BI or Tableau
 
-## 📞 Contact & Collaboration
-
-This project demonstrates my ability to:
-- Work with real-world business data
-- Derive actionable insights from complex datasets
-- Communicate findings effectively to stakeholders
-- Think strategically about business growth
 ---
 
 ## 📜 License
